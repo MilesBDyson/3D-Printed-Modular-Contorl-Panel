@@ -4,3 +4,5 @@ A customizable control panel kit aimed at mounting all them small sensors, light
 Thingiverse: https://www.thingiverse.com/thing:7019983
 
 ![](images/2x2.png)
+
+[![Hits](https://hits.sh/github.com/MilesBDyson/3D-Printed-Modular-Contorl-Panel.svg)](https://hits.sh/github.com/MilesBDyson/3D-Printed-Modular-Contorl-Panel/)
