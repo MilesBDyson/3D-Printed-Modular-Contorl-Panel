@@ -5,6 +5,6 @@ images comming sooooon!!
 
 Thingiverse: https://www.thingiverse.com/thing:7019983
 
-![](images/2x2.png)
+![](images/large_display_GOPR0527.JPG)
 
 [![Hits](https://hits.sh/github.com/MilesBDyson/3D-Printed-Modular-Contorl-Panel.svg)](https://hits.sh/github.com/MilesBDyson/3D-Printed-Modular-Contorl-Panel/)
