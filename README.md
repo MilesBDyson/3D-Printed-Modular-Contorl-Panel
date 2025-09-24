@@ -6,3 +6,10 @@ Thingiverse: https://www.thingiverse.com/thing:7019983
 ![](images/large_display_s-l1600.png)
 
 [![Hits](https://hits.sh/github.com/MilesBDyson/3D-Printed-Modular-Contorl-Panel.svg)](https://hits.sh/github.com/MilesBDyson/3D-Printed-Modular-Contorl-Panel/)
+Collection:
+https://www.thingiverse.com/milesdyson/collections/43391187/things
+
+
+
+
+
