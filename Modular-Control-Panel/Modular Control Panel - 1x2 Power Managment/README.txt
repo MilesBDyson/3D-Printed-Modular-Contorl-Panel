@@ -1,0 +1,4 @@
+Modular Control Panel - 1x2 Power Managment Panel. by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7150142
+
+Summary:
+This panel holds every thing one would need for power management of the BeagleBone Black or Raspberry PI1x Toggle switch (main power supply)2x square push buttons (boot) (reset) User Buttons7x 5mm LED's (User LEDS)use this to power your project, a reset switch as well as main board power button.this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things

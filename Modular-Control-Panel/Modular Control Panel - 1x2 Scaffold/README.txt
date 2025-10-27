@@ -1,0 +1,4 @@
+Modular Control Panel - 1x2 Scaffold by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7149388
+
+Summary:
+Running out of room on your panel? .. not to worry, we have another dimension to build in.This is a 1 x 2 Scaffolding, it is for mounting additional plates in the back of your panel. Behind the seen so to speak. Where else where you going to mount the power supply?This set includes a new Big Foot that replaces the smaller one allowing plenty of screw thread space on each end.. effectively allowing you to mount over top the screws in the front. this set may have some limitations depending on what components used and the exact layout of your project, so give it some thought when laying out your panels.this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things

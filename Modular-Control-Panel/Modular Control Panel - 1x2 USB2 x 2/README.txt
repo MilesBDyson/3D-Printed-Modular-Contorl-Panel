@@ -1,0 +1,4 @@
+Modular Control Panel - 1x2 USB2 x 2 by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7149372
+
+Summary:
+This pane lets you turn an old boring USB hub into a panel mounted hub.I used an old 5v powered 4 port USB 2.0 hub i had for years, removed the old USB ports and added wires, nice 4 port hub with LED indicator to break out my Beaglebone Black, think the female USB pcb's cost me like 7 bucks for 10 pcs.this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things
