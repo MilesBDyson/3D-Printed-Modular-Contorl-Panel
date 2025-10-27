@@ -1,0 +1,4 @@
+Modular Control Panel - 2x4 ATX Molex 20p Mount by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7172862
+
+Summary:
+This plate is a combined effort to satisfy some basic mounting and terminating needs along with mounting that power supply, there is a pattern for both the 6-pair and 2-pair screw terminal blocks, also a diamond pattern for what misc. things you may come up with. Scaffoldhttps://www.thingiverse.com/thing:7149388this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things

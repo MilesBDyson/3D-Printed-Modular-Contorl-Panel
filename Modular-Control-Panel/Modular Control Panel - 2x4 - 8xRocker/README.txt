@@ -1,0 +1,4 @@
+Modular Control Panel - 2x4 - 8xRocker 8-3/4x1/2 by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7103802
+
+Summary:
+nice big bank of rocker switches with Defused 5mm LED indicators.Watching them old SCI-FI movies, often you may see a control panel or two and they always have them big banks of lights and switches. Ever wonder when they all do?Well now you can make every one else wonder the same thing, lots of switches for lots of things that need switching!This set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things
