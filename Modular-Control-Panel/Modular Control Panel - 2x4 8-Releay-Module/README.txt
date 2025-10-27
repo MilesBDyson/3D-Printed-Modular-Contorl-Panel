@@ -1,0 +1,4 @@
+Modular Control Panel - 2x4 8-Releay-Module  by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7150849
+
+Summary:
+this is a larger plate for mounting that big 8 chanel relay module you bin tossing around in that drawer, well placed center supports, needed when accessing screw terminals.mount it on a full frame for a stand alone table top module or mount it on a scaffold for rear mounting on a control panel.now only if you had a gang of switches to connect them to! ..oh wait a minute, there's one here, https://www.thingiverse.com/thing:7103802Scaffoldhttps://www.thingiverse.com/thing:7149388this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things

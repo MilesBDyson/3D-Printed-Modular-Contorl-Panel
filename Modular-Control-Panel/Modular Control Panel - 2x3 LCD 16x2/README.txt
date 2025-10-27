@@ -1,0 +1,4 @@
+Modular Control Panel - 2x3 LCD 16x2 flush by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7101159
+
+Summary:
+This 2x3 plate is for mounting them smaller 16 X 2 LCD char screens with the i2c backpack.Included:one spacer "missing short side"one nut "missing long side"Tip:I had to trim the 16 pins from the i2c backpack module flush to the solder, allowing room for the spacer to seat properly.this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things
