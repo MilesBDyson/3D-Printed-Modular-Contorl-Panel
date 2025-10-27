@@ -1,0 +1,4 @@
+Modular Control Panel - 1x3 MQ Sensor by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7160189
+
+Summary:
+What? two is not enough, well ... ok here ya go.. this 1x3 plate mounts 3 not 2 but whopping 3 MQ Sensors, oh the things one could make with this, add a full frame for a table top module to experiment with or mount it in the back of your panel with scaffolding.Scaffoldhttps://www.thingiverse.com/thing:7149388this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things

@@ -1,0 +1,4 @@
+Modular Control Panel - 1x4 MQ Sensor by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7160200
+
+Summary:
+BUTT WAIT there's more!! YUPP! This plate holds 4 MQ Sensors for your project needs.. hmm i wonder what could be better?Mount this plate on a full frame for a table top module to experiment with or mount them on or behind your panels with Scaffolding.Scaffoldhttps://www.thingiverse.com/thing:7149388this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things

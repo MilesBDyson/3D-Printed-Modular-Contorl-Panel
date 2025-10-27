@@ -1,0 +1,4 @@
+Modular Control Panel - 2x2 ATX 20p mount by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7157007
+
+Summary:
+This 2x2 plate is for mounting an ATX Molex 20 pin female plug. Use it for securing wires, busses and a female plug to provide access to your power supply, in addition to mounting, this plate also has a nice 5mm gird pattern allowing you a small area for wire management or fasten a small buss for convenient terminations. Scaffold for mounting on the back of your panel.https://www.thingiverse.com/thing:7149388this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things
