@@ -1,0 +1,4 @@
+Modular Control Panel - 1x1 MQ Sensor by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7159838
+
+Summary:
+Love me some MQ .. these little sensor boards are fun to play with, you can make all sorts of programs using them, The MQ Sensor boards are popular and may not fit this one, please let me know if you run into this.. comment below.Scaffoldhttps://www.thingiverse.com/thing:7149388this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things
