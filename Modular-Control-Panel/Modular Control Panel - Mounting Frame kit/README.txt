@@ -1,0 +1,4 @@
+Modular Control Panel - Mounting Frame kit by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7175613
+
+Summary:
+Mounting that panel... got a cabinet, cut a nice big hole in it, oh and ya, mount your panel with this modular frame kit, uses standard M3 pan head wood screws and comes with two versions, one set with feet, and the other set without feet, the set without feet can be used to capture existing feet or for easy removal, as the ones with feet provide a solid union for larger control panels and replace the existing feet so you can fasten the panels directly to them.if you install your panels over a hole or build a nice custom box for them, this kit should get you going, or perhaps a better angle on things?Scaffoldhttps://www.thingiverse.com/thing:7149388Basic Kithttps://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things

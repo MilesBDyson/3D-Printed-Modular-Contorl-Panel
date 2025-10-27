@@ -1,0 +1,4 @@
+Modular Control Panel - SG90 Gauge by MilesDyson on Thingiverse: https://www.thingiverse.com/thing:7102883
+
+Summary:
+A nice analog looking gauge in two sizes, mount your SG90 on the back and make a scale to paste in the background. Nice learning tool for servo movements or can be use as an indicator.This gauge would pair nicely with the HC-SR04https://www.thingiverse.com/thing:6648071this set requires the basic set which includes the mounting frames and more.https://www.thingiverse.com/thing:7019983The Modular Control Panel Collection:https://www.thingiverse.com/milesdyson/collections/43391187/things
